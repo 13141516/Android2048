@@ -1,2 +1,3 @@
-# AndroidBasic
-#the main function that i develope is using bluetooth to make two people to enter the same game.
+#Android 2048 Game
+#改进 
+两台两android手机通过蓝牙联机后 ，可以一起玩2048这个游戏 。
